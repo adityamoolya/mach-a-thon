@@ -41,28 +41,28 @@ except ImportError:
 # 1. ZONE DEFINITIONS
 # ═══════════════════════════════════════════════════════════════════════════
 
-# Watch-area polygon: a rectangular corridor in the Palk Strait /
-# Gulf of Mannar, covering the approaches to a notional offshore wind
-# survey zone.  Approximate box: 8.8°N–9.2°N, 78.8°E–79.3°E.
+# Watch-area polygon: a rectangular corridor in the Gulf of Khambhat
+# off the Saurashtra coast, Gujarat, covering a notional offshore wind
+# survey zone.  Approximate box: 20.5°N–20.9°N, 71.5°E–72.0°E.
 WATCH_AREA = {
-    "zone_id": "ZONE-TN-GULF-01",
-    "name": "Gulf of Mannar Offshore Survey Corridor",
-    "description": "Watch-area for the notional offshore wind survey zone, Tamil Nadu coast.",
+    "zone_id": "ZONE-GJ-KHAMBHAT-01",
+    "name": "Gulf of Khambhat Offshore Survey Corridor",
+    "description": "Watch-area for the notional offshore wind survey zone, Gujarat coast.",
     "coordinates": [           # (lon, lat) — GeoJSON convention
-        [78.80, 8.80],
-        [79.30, 8.80],
-        [79.30, 9.20],
-        [78.80, 9.20],
-        [78.80, 8.80],         # close the ring
+        [71.50, 20.50],
+        [72.00, 20.50],
+        [72.00, 20.90],
+        [71.50, 20.90],
+        [71.50, 20.50],        # close the ring
     ],
 }
 
 # Protected asset: notional offshore substation / metocean buoy
 ASSET = {
-    "asset_id": "ASSET-TN-SUB-01",
-    "name": "Gulf of Mannar Offshore Substation (SIMULATED)",
-    "lat": 9.00,
-    "lon": 79.05,
+    "asset_id": "ASSET-GJ-SUB-01",
+    "name": "Gulf of Khambhat Offshore Substation (SIMULATED)",
+    "lat": 20.70,
+    "lon": 71.75,
     "proximity_radius_km": 2.0,   # configurable — swap to suit asset scale
 }
 

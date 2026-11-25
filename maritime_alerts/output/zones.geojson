@@ -8,32 +8,32 @@
         "coordinates": [
           [
             [
-              78.8,
-              8.8
+              71.5,
+              20.5
             ],
             [
-              79.3,
-              8.8
+              72.0,
+              20.5
             ],
             [
-              79.3,
-              9.2
+              72.0,
+              20.9
             ],
             [
-              78.8,
-              9.2
+              71.5,
+              20.9
             ],
             [
-              78.8,
-              8.8
+              71.5,
+              20.5
             ]
           ]
         ]
       },
       "properties": {
-        "zone_id": "ZONE-TN-GULF-01",
-        "name": "Gulf of Mannar Offshore Survey Corridor",
-        "description": "Watch-area for the notional offshore wind survey zone, Tamil Nadu coast.",
+        "zone_id": "ZONE-GJ-KHAMBHAT-01",
+        "name": "Gulf of Khambhat Offshore Survey Corridor",
+        "description": "Watch-area for the notional offshore wind survey zone, Gujarat coast.",
         "type": "WATCH_AREA",
         "data_source": "SIMULATED"
       }
@@ -43,13 +43,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.05,
-          9.0
+          71.75,
+          20.7
         ]
       },
       "properties": {
-        "asset_id": "ASSET-TN-SUB-01",
-        "name": "Gulf of Mannar Offshore Substation (SIMULATED)",
+        "asset_id": "ASSET-GJ-SUB-01",
+        "name": "Gulf of Khambhat Offshore Substation (SIMULATED)",
         "proximity_radius_km": 2.0,
         "type": "PROTECTED_ASSET",
         "data_source": "SIMULATED"
