@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7,
+          8.7
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-001",
+        "timestamp": "2024-06-15T06:00:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.85,
+          8.82
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-001",
+        "timestamp": "2024-06-15T06:10:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.95,
+          8.92
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-001",
+        "timestamp": "2024-06-15T06:20:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.03,
+          8.99
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-001",
+        "timestamp": "2024-06-15T06:30:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.06,
+          9.0
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-001",
+        "timestamp": "2024-06-15T06:40:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15,
+          9.05
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-001",
+        "timestamp": "2024-06-15T06:50:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.25,
+          9.18
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-001",
+        "timestamp": "2024-06-15T07:00:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4,
+          9.3
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-001",
+        "timestamp": "2024-06-15T07:10:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5,
+          8.5
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-002",
+        "timestamp": "2024-06-15T06:00:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7,
+          8.6
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-002",
+        "timestamp": "2024-06-15T06:15:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9,
+          8.65
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-002",
+        "timestamp": "2024-06-15T06:30:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1,
+          8.72
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-002",
+        "timestamp": "2024-06-15T06:45:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4,
+          8.7
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-002",
+        "timestamp": "2024-06-15T07:00:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6,
+          8.65
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-002",
+        "timestamp": "2024-06-15T07:15:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.28,
+          8.78
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-003",
+        "timestamp": "2024-06-15T06:00:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.22,
+          8.85
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-003",
+        "timestamp": "2024-06-15T06:12:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18,
+          8.95
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-003",
+        "timestamp": "2024-06-15T06:24:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2,
+          9.1
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-003",
+        "timestamp": "2024-06-15T06:36:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.28,
+          9.18
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-003",
+        "timestamp": "2024-06-15T06:48:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.35,
+          9.25
+        ]
+      },
+      "properties": {
+        "track_id": "TRACK-003",
+        "timestamp": "2024-06-15T07:00:00+00:00",
+        "data_source": "SIMULATED"
+      }
+    }
+  ],
+  "metadata": {
+    "data_source": "SIMULATED",
+    "generated_by": "maritime_alerts.py"
+  }
+}
