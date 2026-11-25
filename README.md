@@ -50,7 +50,7 @@ mach-a-thon/
 The ML layer catches what rules miss — vessels **loitering** outside the zone, making **repeated passes** at decreasing distances, or exhibiting **erratic approach** behaviour.
 
 ### Study area
-Gulf of Mannar / Palk Strait, Tamil Nadu, India — a live shipping corridor and candidate region for offshore wind development.
+Gulf of Khambhat (Saurashtra coast), Gujarat, India — a live shipping corridor and candidate region for offshore wind development.
 
 > ⚠️ All vessel tracks are **SIMULATED**. No real AIS data is used.
 
@@ -108,9 +108,9 @@ Alert object shape:
   "track_id": "TRACK-001",
   "alert_type": "BOUNDARY_CROSSING_OBSERVED",
   "timestamp": "2024-06-15T06:10:00+00:00",
-  "lat": 8.82,
-  "lon": 78.85,
-  "zone_id": "ZONE-TN-GULF-01",
+  "lat": 20.55,
+  "lon": 71.60,
+  "zone_id": "ZONE-GJ-KHAMBHAT-01",
   "asset_id": null,
   "distance_to_asset_km": 29.721,
   "data_source": "SIMULATED"
@@ -164,4 +164,4 @@ data_source     str   always "SIMULATED"
 
 ---
 
-*Space-to-Sea · MachAthon · Tamil Nadu, India · All vessel data: SIMULATED*
+*Space-to-Sea · MachAthon · Gujarat, India · All vessel data: SIMULATED*
